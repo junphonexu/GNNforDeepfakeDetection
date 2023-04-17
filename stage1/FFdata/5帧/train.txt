@@ -1,0 +1,10 @@
+F:/final/FF++/manipulated_sequences/NeuralTextures/000_003_aligned/frame_det_00_000001.bmp
+F:/final/FF++/manipulated_sequences/NeuralTextures/000_003_aligned/frame_det_00_000002.bmp
+F:/final/FF++/manipulated_sequences/NeuralTextures/000_003_aligned/frame_det_00_000003.bmp
+F:/final/FF++/manipulated_sequences/NeuralTextures/000_003_aligned/frame_det_00_000004.bmp
+F:/final/FF++/manipulated_sequences/NeuralTextures/000_003_aligned/frame_det_00_000005.bmp
+F:/final/FF++/manipulated_sequences/NeuralTextures/001_870_aligned/frame_det_00_000001.bmp
+F:/final/FF++/manipulated_sequences/NeuralTextures/001_870_aligned/frame_det_00_000002.bmp
+F:/final/FF++/manipulated_sequences/NeuralTextures/001_870_aligned/frame_det_00_000003.bmp
+F:/final/FF++/manipulated_sequences/NeuralTextures/001_870_aligned/frame_det_00_000004.bmp
+F:/final/FF++/manipulated_sequences/NeuralTextures/001_870_aligned/frame_det_00_000005.bmp
